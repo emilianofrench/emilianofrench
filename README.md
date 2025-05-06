@@ -34,4 +34,4 @@ Estoy desarrollando proyectos propios como parte de mi crecimiento profesional, 
 
 ---
 
-> 🚀 *Mi objetivo es seguir creciendo como Backend Developer y aportar a productos reales que impacten a miles de usuarios. Me adapto rápido, me gusta aprender, y estoy construyendo mi carrera en tecnología con dedicación y propósito.*
+> 🚀 *Mi objetivo es seguir creciendo como programador backend y aportar valor a productos reales que impacten a miles de usuarios. Me adapto rápido, me gusta aprender, y estoy construyendo mi carrera en tecnología con dedicación y propósito.*
