@@ -1,6 +1,6 @@
 <h2 align="center">Hola 👋, soy Emiliano French</h2>
 <p align="center">
-💻 Analista IT · Programador Java en formación · Estudiante de Análisis de Sistemas (ORT)
+💻 Analista IT · Programador Java · Estudiante de Análisis de Sistemas (ORT)
 </p>
 
 ---
