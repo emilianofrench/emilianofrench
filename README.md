@@ -5,9 +5,9 @@
 
 ---
 
-Soy Analista IT con más de 9 años de experiencia en banca.  
-Actualmente estoy en transición hacia el desarrollo backend, especializándome en **Java y Spring**, complementado con cursos formales y certificaciones.  
-Estoy construyendo proyectos propios como parte de mi formacion profesional. Me apasiona crear soluciones técnicas robustas, pensadas no solo desde la lógica, sino desde la experiencia real del usuario final.
+Soy Analista IT con más de 9 años de experiencia en el sector bancario. Actualmente me encuentro en transición hacia el desarrollo backend, enfocándome en Java y Spring, acompañado de formación académica y certificaciones técnicas.
+
+Estoy desarrollando proyectos propios como parte de mi crecimiento profesional, con el objetivo de construir soluciones sólidas, escalables y orientadas a la experiencia real del usuario final.
 
 ---
 
