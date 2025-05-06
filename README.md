@@ -23,7 +23,7 @@ Estoy desarrollando proyectos propios como parte de mi crecimiento profesional, 
 
 ### 🧪 Proyectos en construcción
 
-- [`BancoSimulado-Java`](https://github.com/emilianofrench/BancoSimulador-Java): aplicación de consola para gestión de cuentas bancarias, movimientos y lógica de negocio.
+- [`BancoSimulador-Java`](https://github.com/emilianofrench/BancoSimulador-Java): aplicación de consola para gestión de cuentas bancarias, movimientos y lógica de negocio.
 - [+1 app bancaria en camino con interfaz y lógica Spring Boot]
 
 ---
